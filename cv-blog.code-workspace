@@ -6,7 +6,9 @@
 	],
 	"settings": {
 		"files.associations": {
-			"stdio.h": "c"
+			"stdio.h": "c",
+			"jpeglib.h": "c",
+			"stdlib.h": "c"
 		}
 	}
 }
